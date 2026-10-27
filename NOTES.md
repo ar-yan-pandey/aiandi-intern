@@ -30,4 +30,9 @@
 - I reviewed all 200 comments against Clef's labels myself. `MISTAKES.md` and
   `MISTAKES-v2.md` record where I disagreed: none in the first set, two in the
   harder set.
-- Reflection on the task: [to be written by me]
+
+## What I felt about the task
+
+I enjoyed the assignment. Reviewing the comments myself and comparing my
+judgments with the AI's labels made it an interesting human-versus-AI
+exercise.
