@@ -25,9 +25,9 @@
   as acceptable, toxic, and spam for this course forum; the wording matters a
   lot for how many mistakes Clef makes.
 
-## Still in progress (my own work, not the AI's)
+## My own review (steps 6 and 7, done by hand)
 
-- `MISTAKES.md` and `MISTAKES-v2.md` are intentionally empty for now. Steps 6
-  and 7 require my own judgment, so I am reading every comment against its
-  classification myself and will fill these in.
-- Reflection on the task: [to be written by me after the review]
+- I reviewed all 200 comments against Clef's labels myself. `MISTAKES.md` and
+  `MISTAKES-v2.md` record where I disagreed: none in the first set, two in the
+  harder set.
+- Reflection on the task: [to be written by me]
