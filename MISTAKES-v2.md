@@ -9,7 +9,7 @@ Reviewed all 100 comments against clef's labels myself. Two mistakes found:
 - Comment: "URGENT: free workshop on AI evaluation by an industry speaker this
   Saturday 11 AM, only 80 seats. Register before Thursday:
   forms.gle/cs307-eval-workshop. Attendance is optional."
-- Why: This is asking classmates to take part in a survey related to the
+- Why: This is asking classmates to take part in a workshop related to the
   course, and it doesn't seem to be selling anything or targeting anyone.
   I'd keep it acceptable.
 
